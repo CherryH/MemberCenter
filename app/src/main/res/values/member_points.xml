@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="member_points">
+        <item>20</item>
+        <item>180</item>
+        <item>1300</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>25000</item>
+        <item>40000</item>
+    </integer-array>
+    <integer-array name="member_points_start">
+        <item>0</item>
+        <item>20</item>
+        <item>200</item>
+        <item>1500</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>35000</item>
+        <item>60000</item>
+        <item>100000</item>
+    </integer-array>
+</resources>
